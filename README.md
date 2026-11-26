@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jasonkainayah@gmail.xom
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am still in High School
 
 <!---
 Gameit132/Gameit132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
